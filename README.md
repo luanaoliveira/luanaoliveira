@@ -2,9 +2,9 @@
 
 🎓 **Graduanda em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
-🐍 **Cursos Avançados de Python Completos**  
+🐍 **Cursos de Python e SQL pela a plataforma [DIO](https://auth.dio.me/realms/master/protocol/openid-connect/auth?client_id=spa-core-client&redirect_uri=https%3A%2F%2Fweb.dio.me%2F&state=ff0a0434-79aa-414b-859e-c9c1c5327b83&response_mode=fragment&response_type=code&scope=openid&nonce=c46a04ea-50ff-4f0b-b92e-39f70a0cd52f)**  
 
-Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elétrica e, ao longo do meu percurso acadêmico, descobri uma verdadeira paixão pela Ciência de Dados. Complementando minha formação, concluí um bootcamp intensivo em Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse) e diversos cursos sobre a linguagem Python e SQL, o que me equipou com as habilidades necessárias para transformar dados em insights valiosos. 
+Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elétrica e, ao longo do meu percurso acadêmico, descobri uma verdadeira paixão pela Ciência de Dados. Complementando minha formação, concluí um bootcamp intensivo em Ciência de Dados e diversos cursos sobre a linguagem Python e SQL, o que me equipou com as habilidades necessárias para transformar dados em insights valiosos. 
 
 ### Minhas Competências:
 
