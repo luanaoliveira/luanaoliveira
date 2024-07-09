@@ -2,7 +2,7 @@
 
 🎓 **Graduanda em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
-🐍 **Curso de Ciências de Dados na plataforma [EBAC](https://ebaconline.com.br/)**  
+🐍 **Curso em andamento de Ciências de Dados na plataforma [EBAC](https://ebaconline.com.br/)**  
 
 Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elétrica e, ao longo do meu percurso acadêmico, descobri uma verdadeira paixão pela Ciência de Dados. Para complementar minha formação, concluí um bootcamp intensivo em Ciência de Dados e diversos cursos sobre Python e SQL, que me equiparam com as habilidades necessárias para transformar dados em insights valiosos. Atualmente, estou fazendo um curso de Ciência de Dados na EBAC.
 
