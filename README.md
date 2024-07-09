@@ -2,13 +2,13 @@
 
 🎓 **Graduanda em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
-🐍 **Cursos de Python e SQL pela a plataforma [DIO](https://auth.dio.me/realms/master/protocol/openid-connect/auth?client_id=spa-core-client&redirect_uri=https%3A%2F%2Fweb.dio.me%2F&state=ff0a0434-79aa-414b-859e-c9c1c5327b83&response_mode=fragment&response_type=code&scope=openid&nonce=c46a04ea-50ff-4f0b-b92e-39f70a0cd52f)**  
+🐍 **Curso de Ciências de Dados na plataforma [DIO](https://ebaconline.com.br/)**  
 
 Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elétrica e, ao longo do meu percurso acadêmico, descobri uma verdadeira paixão pela Ciência de Dados. Complementando minha formação, concluí um bootcamp intensivo em Ciência de Dados e diversos cursos sobre a linguagem Python e SQL, o que me equipou com as habilidades necessárias para transformar dados em insights valiosos. 
 
 ### Minhas Competências:
 
-- **Análise de Dados**: Experiência em limpeza, transformação e análise exploratória de dados usando Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white), NumPy ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white).
+- **Análise de Dados**: Experiência em limpeza, transformação e análise exploratória de dados usando ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white).
 - **Machine Learning**: Desenvolvimento de modelos preditivos com bibliotecas como Scikit-learn ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
 - **Visualização de Dados**: Criação de visualizações impactantes com Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white), Seaborn ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) e Plotly ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white).
 - **Python**: Proficiência em programação com foco na manipulação e análise de dados.
