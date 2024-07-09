@@ -9,8 +9,8 @@ Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elét
 ### Minhas Competências:
 
 - **Análise de Dados**: Experiência em limpeza, transformação e análise exploratória de dados usando ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white).
-- **Machine Learning**: Desenvolvimento de modelos preditivos com bibliotecas como Scikit-learn ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
-- **Visualização de Dados**: Criação de visualizações impactantes com Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white), Seaborn ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) e Plotly ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white).
+- **Machine Learning**: Desenvolvimento de modelos preditivos com bibliotecas como ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
+- **Visualização de Dados**: Criação de visualizações impactantes com ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) e ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white).
 - **Python**: Proficiência em programação com foco na manipulação e análise de dados.
 
 Atualmente mais focado em:
