@@ -1,12 +1,12 @@
 ## Oi 👋 Eu sou Luana Oliveira
 
-🎓 **Engenharia Elétricista pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
+🎓 **Graduada em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
 🐍 **No momento estou cursando Ciências de Dados na [EBAC](https://ebaconline.com.br/)**     
 🔭 **Atualmente sou Residente em Ciências de Dados no [RESTIC 36 - CEPEDI](https://www.restic36.cepedi.org.br/)** 
 
-Bem-vindo ao meu GitHub!
-Sou Engenheira Eletricista com uma grande paixão por Ciência de Dados. Após minha formação, mergulhei em projetos de análise preditiva e resolução de problemas, buscando transformar dados em decisões estratégicas.
+Bem-vindo ao meu GitHub!  
+Sou graduada em Engenharia Elétrica com uma grande paixão por **Ciência de Dados**. Após minha formação, mergulhei em projetos de análise preditiva e resolução de problemas, buscando transformar dados em decisões estratégicas.  
 
 ### Minhas Competências:
 
