@@ -1,11 +1,12 @@
 ## Oi 👋 Eu sou Luana Oliveira
 
-🎓 **Graduanda em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
+🎓 **Engenharia Elétricista pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
 🐍 **No momento estou cursando Ciências de Dados na [EBAC](https://ebaconline.com.br/)**     
 🔭 **Atualmente sou Residente em Ciências de Dados no [RESTIC 36 - CEPEDI](https://www.restic36.cepedi.org.br/)** 
 
-Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elétrica e, ao longo do meu percurso acadêmico, descobri uma verdadeira paixão pela Ciência de Dados. Para complementar minha formação, concluí um bootcamp intensivo em Ciência de Dados e cursos sobre Python, SQL e NoSQL na Plataforma DIO, que me equiparam com as habilidades necessárias para transformar dados em insights valiosos. Atualmente, estou cursando Ciência de Dados na EBAC e sou Residente em Ciências de Dados na RESTIC 36, programa oferecido pelo CEPEDI em parceria com a Softex e o Governo do Estado da Bahia.
+Bem-vindo ao meu GitHub!
+Sou Engenheira Eletricista com uma grande paixão por Ciência de Dados. Após minha formação, mergulhei em projetos de análise preditiva e resolução de problemas, buscando transformar dados em decisões estratégicas.
 
 ### Minhas Competências:
 
@@ -13,8 +14,6 @@ Bem-vindo ao meu GitHub! Estou finalizando minha graduação em Engenharia Elét
 - **Exploração e Visualização de Dados**: Criação de visualizações impactantes com ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) e ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white).
 - **Análise de Dados**: Experiência em limpeza, transformação e análise exploratória de dados usando ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white).
 - **Machine Learning**: Desenvolvimento de modelos preditivos com bibliotecas como ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
-
-
 
 Atualmente mais focado em:
   
