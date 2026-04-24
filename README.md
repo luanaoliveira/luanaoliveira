@@ -21,7 +21,7 @@ Minha trajetória também inclui projetos aplicados de **Ciência de Dados** e *
 - **Back-end e Integrações:** APIs REST, integração entre sistemas, automação de processos, web scraping
 - **Linguagens e Banco de Dados:** Python, Node.js, TypeScript, SQL, PostgreSQL
 - **Dados e Machine Learning:** Pandas, NumPy, análise exploratória de dados, visualização de dados, Scikit-learn
-- **Ferramentas:** Git, GitHub, Jupyter Notebook, Google Colab
+- **Ferramentas e Tecnologias: Git, GitHub, Postman, Prisma, Docker, AWS, CI/CD, Jupyter Notebook, Google Colab
 
 ---
 
