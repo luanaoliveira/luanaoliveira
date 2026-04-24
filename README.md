@@ -2,33 +2,32 @@
 
 🎓 **Graduada em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
-🐍 **No momento estou cursando Ciências de Dados na [EBAC](https://ebaconline.com.br/)**     
-🔭 **Atualmente sou Residente em Ciências de Dados no [RESTIC 36 - CEPEDI](https://www.restic36.cepedi.org.br/)** 
+🐍 **Em formação complementar em Ciência de Dados pela [EBAC](https://ebaconline.com.br/)**  
+💼 **Atualmente atuo na [Ascenda](https://websites.ascenda.cc/), com foco em desenvolvimento back-end, integração de dados e automação de processos**  
+🔭 **Experiência anterior na Residência em Ciência de Dados do [ResTIC36 / CEPEDI](https://www.restic36.cepedi.org.br/), com atuação em projetos aplicados e desenvolvimento de soluções integradas**
 
-Bem-vindo ao meu GitHub!  
-Sou graduada em Engenharia Elétrica com uma grande paixão por **Ciência de Dados**. Após minha formação, mergulhei em projetos de análise preditiva e resolução de problemas, buscando transformar dados em decisões estratégicas.  
+Bem-vindo ao meu GitHub!
 
-### Minhas Competências:
+Sou uma profissional com experiência prática em Ciência de Dados e desenvolvimento back-end, atuando em projetos com foco em integração de dados, APIs REST, automação de processos, análise exploratória, modelagem preditiva e evolução de produto.
 
-- **Python**: Proficiência em programação com foco na manipulação e análise de dados.
-- **Exploração e Visualização de Dados**: Criação de visualizações impactantes com ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) e ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white).
-- **Análise de Dados**: Experiência em limpeza, transformação e análise exploratória de dados usando ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white).
-- **Machine Learning**: Desenvolvimento de modelos preditivos com bibliotecas como ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
+Atualmente, na Ascenda, atuo no desenvolvimento de soluções digitais envolvendo extração e importação de dados, web scraping, integração entre sistemas, APIs externas, banco de dados e funcionalidades voltadas a back-end.
 
-Atualmente mais focado em:
-  
-<p align="left">
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> -->
-</p>
+Minha trajetória também inclui projetos aplicados de **Ciência de Dados** e **Machine Learning**, unindo base analítica e experiência prática de desenvolvimento.
 
-### Vamos Conectar?
+---
 
-Estou sempre em busca de novas oportunidades para aplicar minhas habilidades em ciência de dados e colaborar em projetos inovadores. Se você está interessado em discutir ciência de dados, colaborar em um projeto ou apenas conectar, sinta-se à vontade para me contatar!
+## Tecnologias e competências
+
+- **Back-end e Integrações:** APIs REST, integração entre sistemas, automação de processos, web scraping
+- **Linguagens e Banco de Dados:** Python, Node.js, TypeScript, SQL, PostgreSQL
+- **Dados e Machine Learning:** Pandas, NumPy, análise exploratória de dados, visualização de dados, Scikit-learn
+- **Ferramentas:** Git, GitHub, Jupyter Notebook, Google Colab
+
+---
+
+## Vamos nos conectar?
+
+Estou aberta a oportunidades e conexões nas áreas de **Ciência de Dados**, **Análise de Dados**, **Desenvolvimento Back-end** e **Integração de Dados**.
 
 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-oliveira-dev/)  
 ✉️ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luanasilva.jua@gmail.com)  
@@ -36,4 +35,4 @@ Estou sempre em busca de novas oportunidades para aplicar minhas habilidades em 
 
 ---
 
-Obrigada por visitar meu perfil e espero que goste do meu trabalho!
+Obrigada por visitar meu perfil! 🚀
