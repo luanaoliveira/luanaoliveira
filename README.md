@@ -29,26 +29,6 @@ Atualmente, contribuo de forma voluntária na **Ascenda Tecnologia e Serviços**
 
 ---
 
-## Projetos em destaque
-
-<div align="center">
-
-[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=luanaoliveira&repo=ebac_data_science_exercises&theme=dark)](https://github.com/luanaoliveira/ebac_data_science_exercises)
-[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=luanaoliveira&repo=avanti-bootcamp-cdd&theme=dark)](https://github.com/luanaoliveira/avanti-bootcamp-cdd)
-
-[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=luanaoliveira&repo=insta-data-science&theme=dark)](https://github.com/luanaoliveira/insta-data-science)
-
-</div>
-
-### Alguns temas que você vai encontrar por aqui
-
-- projetos de **Ciência de Dados**, **EDA** e **Machine Learning**
-- análises com **Python**, **SQL** e **Power BI**
-- projetos com foco em **integração de dados**, **APIs REST** e **automação**
-- estudos e implementações voltadas a **soluções orientadas por dados**
-
----
-
 ## Detalhes
 
 <div align="center">
@@ -64,8 +44,6 @@ Atualmente, contribuo de forma voluntária na **Ascenda Tecnologia e Serviços**
 Estou aberta a oportunidades e conexões nas áreas de **Ciência de Dados**, **Análise de Dados** e posições que unam **dados, tecnologia e desenvolvimento de soluções orientadas por dados**.
 
 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-oliveira-dev/)  
-✉️ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luanasilva.jua@gmail.com)  
-💬 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/luanaoliveira)
 
 ---
 
