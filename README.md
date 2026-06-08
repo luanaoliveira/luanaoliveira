@@ -1,33 +1,67 @@
 ## Oi 👋 Eu sou Luana Oliveira
 
 🎓 **Graduada em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
+🐍 **Concluindo formação em Ciência de Dados pela [EBAC](https://ebaconline.com.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
-🐍 **Em formação complementar em Ciência de Dados pela [EBAC](https://ebaconline.com.br/)**  
-💼 **Atualmente atuo na [Ascenda](https://websites.ascenda.cc/), com foco em desenvolvimento back-end, integração de dados e automação de processos**  
-🔭 **Experiência anterior na Residência em Ciência de Dados do [ResTIC36 / CEPEDI](https://www.restic36.cepedi.org.br/), com atuação em projetos aplicados e desenvolvimento de soluções integradas**
+🔭 **Experiência na Residência em Ciência de Dados do [ResTIC36 / CEPEDI](https://www.restic36.cepedi.org.br/)**  
+💼 **Atualmente contribuo de forma voluntária na [Ascenda](https://websites.ascenda.cc/), com foco em integração de dados, automação de processos e APIs**
 
 Bem-vindo ao meu GitHub!
 
-Sou uma profissional com experiência prática em Ciência de Dados e desenvolvimento back-end, atuando em projetos com foco em integração de dados, APIs REST, automação de processos, análise exploratória, modelagem preditiva e evolução de produto.
+Sou graduada em Engenharia Elétrica pela UNIVASF, com atuação prática em **Ciência de Dados**, **Análise de Dados** e **soluções orientadas por dados**.
 
-Atualmente, na Ascenda, atuo no desenvolvimento de soluções digitais envolvendo extração e importação de dados, web scraping, integração entre sistemas, APIs externas, banco de dados e funcionalidades voltadas a back-end.
+Tenho experiência com **Python, SQL, PostgreSQL, Pandas, NumPy, análise exploratória de dados, Machine Learning, APIs REST, integração de sistemas e automação de processos**.
 
-Minha trajetória também inclui projetos aplicados de **Ciência de Dados** e **Machine Learning**, unindo base analítica e experiência prática de desenvolvimento.
+No meu TCC, desenvolvi um projeto de previsão da temperatura de módulos fotovoltaicos utilizando **Machine Learning**, passando por etapas de **tratamento de dados, análise exploratória, modelagem e avaliação de desempenho**.
+
+Também participei da **Residência em Ciência de Dados TIC36/CEPEDI**, atuando em projeto aplicado com empresa parceira. Contribuí para o desenvolvimento de um **módulo de recomendação de preços**, com coleta automatizada de dados, tratamento de informações, persistência em banco de dados e disponibilização via **API REST**.
+
+Atualmente, contribuo de forma voluntária na **Ascenda Tecnologia e Serviços**, participando da extração e importação de dados, integração entre sistemas e evolução de soluções digitais com foco em **integração de dados, automação e back-end**.
 
 ---
 
 ## Tecnologias e competências
 
-- **Back-end e Integrações:** APIs REST, integração entre sistemas, automação de processos, web scraping
-- **Linguagens e Banco de Dados:** Python, Node.js, TypeScript, SQL, PostgreSQL
-- **Dados e Machine Learning:** Pandas, NumPy, análise exploratória de dados, visualização de dados, Scikit-learn
-- **Ferramentas e Tecnologias: Git, GitHub, Postman, Prisma, Docker, AWS, CI/CD, Jupyter Notebook, Google Colab
+- **Ciência e Análise de Dados:** Python, SQL, Pandas, NumPy, análise exploratória de dados, visualização de dados, Power BI
+- **Machine Learning:** Scikit-learn, modelagem preditiva, classificação, regressão, avaliação de modelos
+- **Integração e Automação:** APIs REST, integração entre sistemas, web scraping, automação de processos
+- **Ferramentas e Tecnologias:** Git, GitHub, PostgreSQL, Postman, Prisma, Docker, AWS, CI/CD, Jupyter Notebook, Google Colab
+
+---
+
+## Projetos em destaque
+
+<div align="center">
+
+[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=luanaoliveira&repo=ebac_data_science_exercises&theme=dark)](https://github.com/luanaoliveira/ebac_data_science_exercises)
+[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=luanaoliveira&repo=avanti-bootcamp-cdd&theme=dark)](https://github.com/luanaoliveira/avanti-bootcamp-cdd)
+
+[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=luanaoliveira&repo=insta-data-science&theme=dark)](https://github.com/luanaoliveira/insta-data-science)
+
+</div>
+
+### Alguns temas que você vai encontrar por aqui
+
+- projetos de **Ciência de Dados**, **EDA** e **Machine Learning**
+- análises com **Python**, **SQL** e **Power BI**
+- projetos com foco em **integração de dados**, **APIs REST** e **automação**
+- estudos e implementações voltadas a **soluções orientadas por dados**
+
+---
+
+## Detalhes
+
+<div align="center">
+
+![Luana Oliveira's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanaoliveira&theme=github_dark)
+
+</div>
 
 ---
 
 ## Vamos nos conectar?
 
-Estou aberta a oportunidades e conexões nas áreas de **Ciência de Dados**, **Análise de Dados**, **Desenvolvimento Back-end** e **Integração de Dados**.
+Estou aberta a oportunidades e conexões nas áreas de **Ciência de Dados**, **Análise de Dados** e posições que unam **dados, tecnologia e desenvolvimento de soluções orientadas por dados**.
 
 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-oliveira-dev/)  
 ✉️ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luanasilva.jua@gmail.com)  
