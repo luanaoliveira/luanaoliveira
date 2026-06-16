@@ -1,14 +1,14 @@
 ## Oi 👋 Eu sou Luana Oliveira
 
 🎓 **Graduada em Engenharia Elétrica pela [Universidade Federal do Vale do São Francisco](https://portais.univasf.edu.br/)**  
-🐍 **Concluindo formação em Ciência de Dados pela [EBAC](https://ebaconline.com.br/)**  
+🐍 **Formação em Ciência de Dados pela [EBAC](https://ebaconline.com.br/)**  
 📊 **Bootcamp de Ciência de Dados do [Instituto Atlântico](https://atlanticoavanti.ensinio.com/browse)**  
 🔭 **Experiência na Residência em Ciência de Dados do [ResTIC36 / CEPEDI](https://www.restic36.cepedi.org.br/)**  
 💼 **Atualmente contribuo de forma voluntária na [Ascenda](https://websites.ascenda.cc/), com foco em integração de dados, automação de processos e APIs**
 
 Bem-vindo ao meu GitHub!
 
-Sou graduada em Engenharia Elétrica pela UNIVASF, com atuação prática em **Ciência de Dados**, **Análise de Dados** e **soluções orientadas por dados**.
+Sou graduada em Engenharia Elétrica pela UNIVASF e formada em Ciência de Dados pela EBAC, com atuação prática em **Ciência de Dados**, **Análise de Dados** e **soluções orientadas por dados**.
 
 Tenho experiência com **Python, SQL, PostgreSQL, Pandas, NumPy, análise exploratória de dados, Machine Learning, APIs REST, integração de sistemas e automação de processos**.
 
